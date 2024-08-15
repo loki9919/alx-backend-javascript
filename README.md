@@ -1,1 +1,1 @@
-ES6 classes
+Back-end - Modern JavaScript
